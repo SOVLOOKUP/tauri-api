@@ -18,9 +18,9 @@
 [![https://good-labs.github.io/greater-good-affirmation/assets/images/badge.svg](https://good-labs.github.io/greater-good-affirmation/assets/images/badge.svg)](https://good-labs.github.io/greater-good-affirmation)
 [![support](https://img.shields.io/badge/sponsor-Opencollective-blue.svg)](https://opencollective.com/tauri)
 
-| Component       | Version                                               |
-| --------------- | ----------------------------------------------------- |
-| tauri-api       | ![](https://img.shields.io/npm/v/tauri-api.svg)       |
+| Component | Version                                         |
+| --------- | ----------------------------------------------- |
+| tauri-api | ![](https://img.shields.io/npm/v/tauri-api.svg) |
 
 ## About Tauri
 
