@@ -20,7 +20,7 @@
 
 | Component       | Version                                               |
 | --------------- | ----------------------------------------------------- |
-| @tauri-apps/api | ![](https://img.shields.io/npm/v/@tauri-apps/api.svg) |
+| tauri-api       | ![](https://img.shields.io/npm/v/tauri-api.svg)       |
 
 ## About Tauri
 
