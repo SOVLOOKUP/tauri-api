@@ -2,7 +2,7 @@
 
 > This is a commonjs mirror package of @tauri-app/api
 >
-> using: `npm install tauri-api`
+> using: `npm i --save-dev tauri-api`
 >
 > current commit [7eaf437](https://github.com/tauri-apps/tauri/tree/7eaf437b7f5894e2c8269abfa4f99376f26607ad)
 
