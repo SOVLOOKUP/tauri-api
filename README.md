@@ -1,8 +1,10 @@
 # @tauri-apps/api
 
 > This is a commonjs mirror package of @tauri-app/api
-
-current commit [7eaf437](https://github.com/tauri-apps/tauri/tree/7eaf437b7f5894e2c8269abfa4f99376f26607ad)
+>
+> using: `npm install tauri-api`
+>
+> current commit [7eaf437](https://github.com/tauri-apps/tauri/tree/7eaf437b7f5894e2c8269abfa4f99376f26607ad)
 
  <img align="right" src="https://github.com/tauri-apps/tauri/raw/dev/app-icon.png" height="128" width="128">
 
